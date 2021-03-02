@@ -1,0 +1,29 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.section-top{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: slide;
+}
+
+.background-fade{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: slide;
+}
